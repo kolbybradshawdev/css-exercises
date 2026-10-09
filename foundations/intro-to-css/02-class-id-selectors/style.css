@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color:#fe9fad;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.normal {
+    font-size:16px;
+}
+
+.big {
+    font-size:24px;
+}
+
+#blue {
+    color:#0c0cd2;
+    font-size:32px;
+}
+
+#green {
+    background-color:#81f390;
+    font-size:24px;
+    font-weight:bold;
+}
